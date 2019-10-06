@@ -1,2 +1,8 @@
 name = input("Give me your name: ")
 print("Your name is " + name)
+
+print("Were" + "wolf")
+print("Door" + "man")
+print("4" + "chan")
+print(str(4) + "chan")
+print(4 * "test")
