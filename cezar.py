@@ -9,6 +9,7 @@ p = 3
 def cezar(txt, prz):
     k = ""
     for l in txt:
+        #
         # print(l,chr(ord(l)+prz))
         s = ord(l) + prz
         if s > ord("z"):
